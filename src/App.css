@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #f3f3f3;
+  font-size: clamp(16px, 2.5vw, 20px);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  max-width: 1000px;
+}
+
+.intro {
+  max-width: 350px;
+  margin-top: 50px;
+  padding: 5px;
+  background: lightblue;
+}

@@ -1,0 +1,29 @@
+.about-content {
+    
+    padding: 10px;
+    max-width: 350px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 10px 0;
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#event {
+    max-width: 350px;
+    height: 200px;
+}
+
+.submitButton {
+    margin-top: 10px;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
