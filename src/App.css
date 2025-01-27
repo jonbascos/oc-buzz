@@ -15,7 +15,7 @@ body {
 }
 
 .intro {
-  max-width: 350px;
+  width: 100vw;
   margin-top: 50px;
   padding: 5px;
   background: lightblue;
